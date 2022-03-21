@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1640170208 source:c:\users\lenovo\desktop\bangjek\coding\c++\tugas std (n ke n)\implementasi.cpp
+	"header.h"
+
+1640169501 source:c:\users\lenovo\desktop\bangjek\coding\c++\tugas std (n ke n)\main.cpp
+	<iostream>
+	"header.h"
+
+1640083155 c:\users\lenovo\desktop\bangjek\coding\c++\tugas std (n ke n)\header.h
+	<iostream>
+
